@@ -1,0 +1,6 @@
+{
+  "name": "SWYNEX Git Workflow & Project Baseline",
+  "description": "Enterprise Git workflow standards, branching strategy, commit conventions, and interactive project baseline sandbox for SWYNEX Technologies Internship Task 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
