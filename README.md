@@ -2,7 +2,7 @@
 
 > **Internship Program**: SWYNEX Technologies  
 > **Task Number**: Task 1 — Git Workflow and Project Baseline  
-> **Student / Contributor**: Sathwik Ganji (`ganjisathwik73@gmail.com`)  
+> **Student / Contributor**: Sathwik Ganji (`sathwik-svg` / `ganjisathwik73@gmail.com`)  
 > **Repository**: `SWYNEX-Git-Workflow-and-Project-Baseline`  
 
 ---
@@ -106,7 +106,7 @@ Every commit message must be atomic and follow the [Conventional Commits v1.0.0]
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git
+git clone https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git
 cd SWYNEX-Git-Workflow-and-Project-Baseline
 ```
 
@@ -156,7 +156,7 @@ git commit -m "feat(baseline): establish SWYNEX Git workflow and initial applica
 git branch -M main
 
 # 5. Link to your public GitHub repository
-git remote add origin https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git
+git remote add origin https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git
 
 # 6. Push local commits to remote
 git push -u origin main
@@ -181,7 +181,7 @@ For Task 1, I established a clean Git Workflow and Project Baseline. Key deliver
 🔹 Configured production-ready .gitignore, PR review templates, and CI baseline.
 🔹 Developed an interactive Git Workflow Simulator & developer workbench.
 
-📂 GitHub Repository: https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline
+📂 GitHub Repository: https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline
 💻 Live Demo: https://ais-pre-ze3uf6qukon6gdukiw334v-981864576343.asia-east1.run.app
 
 Huge thanks to the team at @SWYNEX Technologies for the mentorship and high-standard engineering challenges!

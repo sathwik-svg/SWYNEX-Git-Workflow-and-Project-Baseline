@@ -150,15 +150,15 @@ export const TerminalSandbox: React.FC = () => {
           <p>Enumerating objects: 12, done.</p>
           <p>Counting objects: 100% (12/12), done.</p>
           <p>Writing objects: 100% (12/12), 4.2 KiB | 4.20 MiB/s, done.</p>
-          <p className="text-emerald-400">To https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git</p>
+          <p className="text-emerald-400">To https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git</p>
           <p className="text-emerald-400 font-bold"> * [new branch]      {currentBranch} -&gt; {currentBranch}</p>
         </div>
       );
     } else if (raw === 'git remote -v') {
       output = (
         <div className="text-slate-300 font-mono space-y-1">
-          <p>origin  https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git (fetch)</p>
-          <p>origin  https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git (push)</p>
+          <p>origin  https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git (fetch)</p>
+          <p>origin  https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git (push)</p>
         </div>
       );
     } else if (raw.startsWith('git merge')) {

@@ -25,7 +25,7 @@ export const SubmissionHelper: React.FC<SubmissionHelperProps> = ({
 }) => {
   const [studentName, setStudentName] = useState('Sathwik Ganji');
   const [githubUrl, setGithubUrl] = useState(
-    'https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline'
+    'https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline'
   );
   const [linkedinUrl, setLinkedinUrl] = useState('');
   const [demoUrl, setDemoUrl] = useState(

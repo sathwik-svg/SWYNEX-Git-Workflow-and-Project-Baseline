@@ -16,8 +16,8 @@ export const REPOSITORY_FILES: RepoFile[] = [
 
 > **Internship Program**: SWYNEX Technologies  
 > **Task Number**: Task 1 — Git Workflow and Project Baseline  
-> **Student / Contributor**: Sathwik Ganji (\`ganjisathwik73@gmail.com\`)  
-> **Repository**: \`SWYNEX-Git-Workflow-and-Project-Baseline\`  
+> **Student / Contributor**: Sathwik Ganji (`sathwik-svg` / `ganjisathwik73@gmail.com`)  
+> **Repository**: `SWYNEX-Git-Workflow-and-Project-Baseline`  
 
 ---
 
@@ -70,7 +70,7 @@ Every commit message must be atomic and follow the [Conventional Commits v1.0.0]
 
 \`\`\`bash
 # 1. Clone repository
-git clone https://github.com/ganjisathwik73/SWYNEX-Git-Workflow-and-Project-Baseline.git
+git clone https://github.com/sathwik-svg/SWYNEX-Git-Workflow-and-Project-Baseline.git
 cd SWYNEX-Git-Workflow-and-Project-Baseline
 
 # 2. Install dependencies
