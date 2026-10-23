@@ -16,8 +16,8 @@ export const REPOSITORY_FILES: RepoFile[] = [
 
 > **Internship Program**: SWYNEX Technologies  
 > **Task Number**: Task 1 — Git Workflow and Project Baseline  
-> **Student / Contributor**: Sathwik Ganji (`sathwik-svg` / `ganjisathwik73@gmail.com`)  
-> **Repository**: `SWYNEX-Git-Workflow-and-Project-Baseline`  
+> **Student / Contributor**: Sathwik Ganji (\`sathwik-svg\` / \`ganjisathwik73@gmail.com\`)  
+> **Repository**: \`SWYNEX-Git-Workflow-and-Project-Baseline\`  
 
 ---
 
