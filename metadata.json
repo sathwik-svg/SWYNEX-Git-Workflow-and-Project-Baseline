@@ -1,0 +1,6 @@
+{
+  "name": "SWYNEX Final Delivery Pipeline Workbench",
+  "description": "Unified CI/CD delivery pipeline connecting build, test, container packaging, staging deployment, and automated release notes for SWYNEX Technologies Internship Task 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

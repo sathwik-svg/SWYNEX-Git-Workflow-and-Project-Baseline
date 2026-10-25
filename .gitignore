@@ -1,0 +1,64 @@
+# ==============================================================================
+# SWYNEX Technologies - Git Project Baseline
+# Project: SWYNEX-Git-Workflow-and-Project-Baseline
+# ==============================================================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build Outputs & Bundles
+dist/
+dist-ssr/
+build/
+*.local
+
+# Environment Variables & Secrets
+.env
+.env*.local
+.env.production
+.env.development
+# Always keep .env.example tracked as documentation
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing & Code Coverage
+coverage/
+*.lcov
+.nyc_output
+
+# Editor & IDE specific files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary & Cache files
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+.vite/
+.temp/
+.cache/
